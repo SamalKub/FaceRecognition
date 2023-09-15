@@ -35,3 +35,6 @@ Install required dependencies:
     pip install -r requirements.txt
     # on Windows:
     python -m pip install -r requirements.txt
+
+## Models checkpoints
+All checkpoints for models you can find here: https://drive.google.com/drive/folders/19SMu--m3L9Ot89Dpg5Q3mCFVA1MO2yIA?usp=drive_link
