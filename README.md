@@ -38,3 +38,5 @@ Install required dependencies:
 
 ## Models checkpoints
 All checkpoints for models you can find here: https://drive.google.com/drive/folders/19SMu--m3L9Ot89Dpg5Q3mCFVA1MO2yIA?usp=drive_link
+## Report 
+Please, see the report.ipynb file with description and details.
